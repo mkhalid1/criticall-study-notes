@@ -57,93 +57,56 @@ There is no published typing speed that every agency requires. Each agency sets 
 
 ## Practice items
 
-These 11 items are original, written for these notes. They are not taken from CritiCall or any publisher's materials.
+These 5 items are original, written for these notes. They are not taken from CritiCall or any publisher's materials.
 
-**Item 1.** The cursor is in the Address field. You press Tab twice. Which field is the cursor in now?
-A. City B. Zip C. Telephone D. Vehicle Identification Number
-
-**Item 2.** The cursor is in the License Plate field. You press Shift and Tab together three times. Which field is the cursor in now?
+**Item 1.** The cursor is in the License Plate field. You press Shift and Tab together three times. Which field is the cursor in now?
 A. Zip B. Address C. City D. Telephone
 
-**Item 3.** The cursor is in the Driver's License field. You press Tab once. Where is the cursor?
+**Item 2.** The cursor is in the Driver's License field. You press Tab once. Where is the cursor?
 A. Last Name B. First Name C. Still in Driver's License D. License Plate
 
-**Item 4.** A caller reads you a 17-character code stamped on a plate near the bottom of her windshield. Which field does it belong in?
-A. License Plate B. Driver's License C. Vehicle Identification Number D. Telephone
+For item 3, the source record is shown first. Choose the entry that matches it exactly.
 
-For items 5 to 8, the source record is shown first. Choose the entry that matches it exactly.
-
-**Item 5.** Source: TRAN, KEVIN. Telephone 555-0143. Address 2218 BRIARWOOD LN.
-A. TRAN, KEVIN / 555-0134 / 2218 BRIARWOOD LN
-B. TRAN, KEVIN / 555-0143 / 2218 BRIARWOOD LN
-C. TRAN, KEVIN / 555-0143 / 2281 BRIARWOOD LN
-D. TRAN, KEVEN / 555-0143 / 2218 BRIARWOOD LN
-
-**Item 6.** Source: CHRISTENSEN, ALMA. City LAKEMONT. Zip 30471.
-A. CHRISTENSON, ALMA / LAKEMONT / 30471
-B. CHRISTENSEN, ALMA / LAKEMOUNT / 30471
-C. CHRISTENSEN, ALMA / LAKEMONT / 30471
-D. CHRISTENSEN, ALMA / LAKEMONT / 30417
-
-**Item 7.** Source: License Plate 7KDR214. Driver's License D0482195.
+**Item 3.** Source: License Plate 7KDR214. Driver's License D0482195.
 A. 7KDR214 / D0482195
 B. 7KRD214 / D0482195
 C. 7KDR214 / DO482195
 D. 7KDR241 / D0482195
 
-**Item 8.** Source: OKAFOR, CHIDI. Telephone 555-0908. City BRENTFIELD.
-A. CHIDI, OKAFOR / 555-0908 / BRENTFIELD
-B. OKAFOR, CHIDI / 555-0980 / BRENTFIELD
-C. OKAFOR, CHIDI / 555-0908 / BRENTFIELD
-D. OKAFOR, CHIDI / 555-0908 / BRENTFEILD
-
-**Item 9.** A caller says: "My number is five five five, oh two six oh." Which number did she give?
+**Item 4.** A caller says: "My number is five five five, oh two six oh." Which number did she give?
 A. 555-0206 B. 555-2060 C. 555-0260 D. 555-0620
 
-**Item 10.** On a simple words-divided-by-minutes measure, you type 230 words in 5 minutes with no errors. What is your speed?
-A. 41 words per minute B. 46 words per minute C. 50 words per minute D. 54 words per minute
-
-**Item 11.** Compare the source with the entry. Count the character positions where the entry differs from the source.
+**Item 5.** Compare the source with the entry. Count the character positions where the entry differs from the source.
 Source: 4410 W HOLLIS RD, CARVER 94120
 Entry: 4401 W HOLLIS RD, CARVER 94210
 A. 0 B. 2 C. 3 D. 4
 
 <details>
-<summary>Answers and explanations, items 1 to 11</summary>
+<summary>Answers and explanations, items 1 to 5</summary>
 
-**Item 1: B. Zip.** Address, then City (first Tab), then Zip (second Tab). *Why not A:* City is only one Tab away.
+**Item 1: C. City.** Going backwards from License Plate: Vehicle Identification Number (1), Zip (2), City (3). *Why not A:* Zip is two steps back, not three.
 
-**Item 2: C. City.** Going backwards from License Plate: Vehicle Identification Number (1), Zip (2), City (3). *Why not A:* Zip is two steps back, not three.
+**Item 2: C. Still in Driver's License.** The guide says Tab does not move the cursor out of the last field. *Why not A:* it does not loop back to the start.
 
-**Item 3: C. Still in Driver's License.** The guide says Tab does not move the cursor out of the last field. *Why not A:* it does not loop back to the start.
+**Item 3: A.** Every part matches. *B* swaps D and R. *C* uses the letter O instead of zero in the driver's license. *D* swaps the last two digits of the plate.
 
-**Item 4: C. Vehicle Identification Number.** Vehicle identification numbers are 17 characters long and are usually visible through the windshield. *Why not A:* license plates are much shorter.
+**Item 4: C. 555-0260.** "Oh two six oh" is 0, 2, 6, 0. *Why not A:* 0206 reverses the last two digits.
 
-**Item 5: B.** Every part matches. *A* swaps the last two digits of the phone number. *C* swaps 18 to 81 in the house number. *D* misspells KEVIN.
-
-**Item 6: C.** Every part matches. *A* has CHRISTENSON. *B* adds a U to LAKEMONT. *D* swaps the last two digits of the zip.
-
-**Item 7: A.** Every part matches. *B* swaps D and R. *C* uses the letter O instead of zero in the driver's license. *D* swaps the last two digits of the plate.
-
-**Item 8: C.** Every part matches. *A* puts the first name in the last name position. *B* swaps 08 to 80. *D* has BRENTFEILD instead of BRENTFIELD.
-
-**Item 9: C. 555-0260.** "Oh two six oh" is 0, 2, 6, 0. *Why not A:* 0206 reverses the last two digits.
-
-**Item 10: B. 46.** 230 divided by 5 is 46. *Why not C:* 50 would need 250 words.
-
-**Item 11: D. 4.** The house number 4410 became 4401 (two characters wrong) and the zip 94120 became 94210 (two characters wrong). That is four positions in two swaps. *Why not B:* each swap changes two positions, not one.
+**Item 5: D. 4.** The house number 4410 became 4401 (two characters wrong) and the zip 94120 became 94210 (two characters wrong). That is four positions in two swaps. *Why not B:* each swap changes two positions, not one.
 
 </details>
 
+Want more? The [free timed CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=criticall) has the full 60 questions across eleven modules, with every answer explained.
+
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | B | C | C | C | B | C | A | C | C | B | D |
+| Item | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| Answer | C | C | A | C | D |
 
-- **10 to 11:** your eye for detail is sharp. Spend your time on raw typing speed.
-- **7 to 9:** slow down on the checking step. Most misses here are swapped digits you read past.
-- **6 or fewer:** practice copying names, addresses and phone numbers from a list every day for a week, then check every character.
+- **5:** your eye for detail is sharp. Spend your time on raw typing speed.
+- **3 to 4:** slow down on the checking step. Most misses here are swapped digits you read past.
+- **2 or fewer:** practice copying names, addresses and phone numbers from a list every day for a week, then check every character.
 
 ## Next step
 

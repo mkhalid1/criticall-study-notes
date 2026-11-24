@@ -2,7 +2,7 @@
 
 # Study plans
 
-Two plans: one for a week, one for when the invitation has already arrived. Both start with the [15-minute diagnostic](diagnostic.md) so you know where you are weak. Expect about an hour a day on the 7-day plan, plus 15 minutes of typing practice.
+Two plans: one for a week, one for when the invitation has already arrived. Both start with the [5-minute diagnostic](diagnostic.md) so you know where you are weak. Expect about an hour a day on the 7-day plan, plus 15 minutes of typing practice.
 
 If your job posting or invitation lists the modules you will take, cut any module that is not on the list and give the time to your weakest one.
 
@@ -38,7 +38,7 @@ For when the test link has arrived and the deadline is close. Test links can exp
 
 | Block | Time | What to do |
 |---|---|---|
-| 1 | 15 min | Take the [diagnostic](diagnostic.md). |
+| 1 | 5 min | Take the [diagnostic](diagnostic.md). |
 | 2 | 20 min | Read the official [candidate preparation guide](https://criticall911.com/hubfs/Criticall-Website-Files/CritiCall_Candidate_Test_Preparation_Guide_2023.pdf). Learn the four decision rules and the field order. |
 | 3 | 40 min | Read the "How the questions look" and "Traps" parts of every section guide, then do the practice items for your two weakest modules. |
 | 4 | 30 min | Take a timed run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=criticall). |

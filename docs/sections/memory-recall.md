@@ -43,7 +43,7 @@ Study times on the real test are short and set by the software. Train with times
 
 ## Practice items
 
-These 11 items are original, written for these notes. They are not taken from CritiCall or any publisher's materials.
+These 5 items are original, written for these notes. They are not taken from CritiCall or any publisher's materials.
 
 ### Set A: word pairs
 
@@ -61,17 +61,8 @@ These 11 items are original, written for these notes. They are not taken from Cr
 
 </details>
 
-**Item 1.** Which word was paired with GREEN?
-A. Canoe B. Scooter C. Helmet D. Ladder
-
-**Item 2.** Which word was paired with TRAILER?
+**Item 1.** Which word was paired with TRAILER?
 A. Purple B. Brown C. Orange D. Silver
-
-**Item 3.** Which word was paired with WHITE?
-A. Suitcase B. Ladder C. Canoe D. Scooter
-
-**Item 4.** Which word was paired with HELMET?
-A. Green B. Orange C. Purple D. White
 
 ### Set B: phone numbers
 
@@ -86,14 +77,11 @@ A. Green B. Orange C. Purple D. White
 
 </details>
 
-**Item 5.** Which was the second number?
+**Item 2.** Which was the second number?
 A. 555-7326 B. 555-7362 C. 555-3762 D. 555-0418
 
-**Item 6.** Which of these numbers was in the set?
+**Item 3.** Which of these numbers was in the set?
 A. 555-0481 B. 555-0972 C. 555-0927 D. 555-7632
-
-**Item 7.** Which number came first?
-A. 555-0418 B. 555-0927 C. 555-0148 D. 555-7362
 
 ### Set C: vehicles
 
@@ -108,54 +96,38 @@ A. 555-0418 B. 555-0927 C. 555-0148 D. 555-7362
 
 </details>
 
-**Item 8.** What color was the sedan?
-A. White B. Black C. Red D. Silver
-
-**Item 9.** Which plate belonged to the van?
+**Item 4.** Which plate belonged to the van?
 A. 3PKL208 B. 3PLK208 C. 8TWM551 D. 3PLK280
 
-**Item 10.** Which vehicle had the plate 6ZB4417?
-A. Van B. Sedan C. Motorcycle D. None of them
-
-**Item 11.** Which vehicle was black?
+**Item 5.** Which vehicle had the plate 6ZB4417?
 A. Van B. Sedan C. Motorcycle D. None of them
 
 <details>
-<summary>Answers and explanations, items 1 to 11</summary>
+<summary>Answers and explanations, items 1 to 5</summary>
 
-**Item 1: B. Scooter.** GREEN went with SCOOTER. *Why not C:* helmet was paired with orange.
+**Item 1: A. Purple.** PURPLE went with TRAILER. *Why not B:* brown went with suitcase.
 
-**Item 2: A. Purple.** PURPLE went with TRAILER. *Why not B:* brown went with suitcase.
+**Item 2: B. 555-7362.** *Why not A:* 7326 swaps the last two digits. *Why not D:* 0418 was the first number.
 
-**Item 3: C. Canoe.** WHITE went with CANOE. *Why not A:* suitcase was brown.
+**Item 3: C. 555-0927.** This was the third number. *A* and *B* each swap two digits of a real number, and *D* swaps two digits of the second number.
 
-**Item 4: B. Orange.** ORANGE went with HELMET.
+**Item 4: B. 3PLK208.** *A* swaps L and K. *D* swaps the last two digits. *C* is the sedan's plate.
 
-**Item 5: B. 555-7362.** *Why not A:* 7326 swaps the last two digits. *Why not D:* 0418 was the first number.
-
-**Item 6: C. 555-0927.** This was the third number. *A* and *B* each swap two digits of a real number, and *D* swaps two digits of the second number.
-
-**Item 7: A. 555-0418.** *Why not C:* 0148 swaps the middle digits.
-
-**Item 8: C. Red.**
-
-**Item 9: B. 3PLK208.** *A* swaps L and K. *D* swaps the last two digits. *C* is the sedan's plate.
-
-**Item 10: C. Motorcycle.**
-
-**Item 11: C. Motorcycle.** The motorcycle was black. *Why not A:* the van was white.
+**Item 5: C. Motorcycle.**
 
 </details>
 
+Want more? The [free timed CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=criticall) has the full 60 questions across eleven modules, with every answer explained.
+
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | B | A | C | B | B | C | A | C | B | C | C |
+| Item | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| Answer | A | B | C | B | C |
 
-- **10 to 11:** good recall. Cut the study time in half and try again.
-- **7 to 9:** look at whether you lost pairings or digits. Pairings improve with mental pictures. Digits improve with chunking.
-- **6 or fewer:** do the phone-number drill from the candidate guide for ten minutes a day.
+- **5:** good recall. Cut the study time in half and try again.
+- **3 to 4:** look at whether you lost pairings or digits. Pairings improve with mental pictures. Digits improve with chunking.
+- **2 or fewer:** do the phone-number drill from the candidate guide for ten minutes a day.
 
 ## Next step
 

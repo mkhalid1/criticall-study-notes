@@ -40,7 +40,7 @@ Your time is set by the recording. The work is keeping up. Practice by typing no
 
 ## Practice items
 
-These 12 items are original, written for these notes, and so are the two calls. They are not taken from CritiCall or any publisher's materials.
+These 5 items are original, written for these notes, and so are the two calls. They are not taken from CritiCall or any publisher's materials.
 
 ### Call 1
 
@@ -51,41 +51,26 @@ These 12 items are original, written for these notes, and so are the two calls. 
 
 </details>
 
-**Item 1.** What color was the vehicle?
-A. Black B. Blue C. Gray D. The caller did not say
-
-**Item 2.** Which way did the vehicle go?
+**Item 1.** Which way did the vehicle go?
 A. South on Garnet Avenue B. North on Fourth Street C. North on Garnet Avenue D. East on Fourth Street
 
-**Item 3.** What part of the license plate did the caller see?
+**Item 2.** What part of the license plate did the caller see?
 A. 6RJ B. R6J C. 6JR D. 8RJ
 
-**Item 4.** What is the condition of the injured person?
-A. Unconscious and bleeding B. Awake, talking, and bleeding from the leg C. Awake with no visible injuries D. The caller did not say
-
-**Item 5.** What is the caller's callback number?
-A. 555-0127 B. 555-1072 C. 555-0712 D. 555-0172
-
-**Item 6.** Which summary is the most accurate and complete for responders?
+**Item 3.** Which summary is the most accurate and complete for responders?
 A. Hit and run at Garnet Ave and 4th St. Blue pickup, partial plate 6RJ, fled north on Garnet. Cyclist awake, leg bleeding heavily. Caller Paula, 555-0172.
 B. Hit and run at Garnet Ave and 4th St. Faded blue pickup driven by a drunk driver, plate 6RJ, fled north. Cyclist unconscious. Caller Paula.
 C. Cyclist hurt near a bakery. Dangerous corner, complaints made to council. Caller has a dog. Truck left the scene.
 D. Hit and run at Garnet Ave and 4th St. Blue pickup fled south on Garnet. Cyclist awake. Caller Paula, 555-0172.
 
 <details>
-<summary>Answers and explanations, items 1 to 6</summary>
+<summary>Answers and explanations, items 1 to 3</summary>
 
-**Item 1: B. Blue.** The caller said "a blue pickup truck, kind of faded paint". *Why not C:* faded is a description of the paint, not a different color.
+**Item 1: C. North on Garnet Avenue.** "It went north on Garnet." *Why not B:* Fourth Street is the cross street where the crash happened, not the direction of travel.
 
-**Item 2: C. North on Garnet Avenue.** "It went north on Garnet." *Why not B:* Fourth Street is the cross street where the crash happened, not the direction of travel.
+**Item 2: A. 6RJ.** "Started with six, R, J." *Why not B or C:* these change the order, which would send officers looking for the wrong vehicle.
 
-**Item 3: A. 6RJ.** "Started with six, R, J." *Why not B or C:* these change the order, which would send officers looking for the wrong vehicle.
-
-**Item 4: B.** "He's awake and talking but his leg is bleeding a lot." *Why not A:* he is awake. *Why not C:* he is bleeding.
-
-**Item 5: D. 555-0172.** *Why not A:* 0127 swaps the last two digits, the most common way to mishear a number.
-
-**Item 6: A.** It has the location, vehicle, partial plate, direction, injury and callback, with nothing invented. *B* adds "drunk", which the caller never said, calls the plate complete, and says the cyclist is unconscious. *C* keeps the chatter and loses the facts. *D* has the wrong direction.
+**Item 3: A.** It has the location, vehicle, partial plate, direction, injury and callback, with nothing invented. *B* adds "drunk", which the caller never said, calls the plate complete, and says the cyclist is unconscious. *C* keeps the chatter and loses the facts. *D* has the wrong direction.
 
 </details>
 
@@ -98,53 +83,35 @@ D. Hit and run at Garnet Ave and 4th St. Blue pickup fled south on Garnet. Cycli
 
 </details>
 
-**Item 7.** Which level of the garage is the caller on?
-A. Level 1 B. Level 2 C. Level 3 D. The roof
-
-**Item 8.** What was the man wearing on his feet?
+**Item 4.** What was the man wearing on his feet?
 A. Black boots B. White sneakers C. Gray sneakers D. The caller did not say
 
-**Item 9.** What did the man do to the silver hatchback?
-A. Only tried the handle B. Broke its window C. Drove away in it D. Got its door open and leaned inside
-
-**Item 10.** Where was the man heading at the end of the call?
-A. Toward the stairwell by the elevators B. Toward the exit ramp C. Back toward the caller's car D. Onto Lowry Road
-
-**Item 11.** Which item was the man carrying?
-A. A black backpack B. A gray backpack C. A black duffel bag D. Nothing
-
-**Item 12.** Which summary is the most accurate and complete?
+**Item 5.** Which summary is the most accurate and complete?
 A. Suspicious man in Westfield garage, Lowry Rd. Gray hoodie, white sneakers. Stole a silver hatchback.
 B. Westfield office park garage, Lowry Rd, level 3. Man trying car door handles, entered silver hatchback. Tall, white, 20s, gray hoodie up, dark jeans, white sneakers, black backpack. Now heading to stairwell by elevators. Caller Deb in her car, 555-0349.
 C. Westfield garage level 3. Tall man in gray hoodie breaking car windows, armed, heading to stairwell. Caller Deb, 555-0349.
 D. Westfield office park garage, level 3. Man trying door handles. Tall, 20s, black hoodie, black backpack. Heading to exit ramp. Caller Deb, 555-0349.
 
 <details>
-<summary>Answers and explanations, items 7 to 12</summary>
+<summary>Answers and explanations, items 4 and 5</summary>
 
-**Item 7: C. Level 3.** "I'm on level three." *Why not D:* nothing mentions the roof.
+**Item 4: B. White sneakers.** *Why not C:* gray was the hoodie, not the shoes. Colors drift between items when you do not note them as you hear them.
 
-**Item 8: B. White sneakers.** *Why not C:* gray was the hoodie, not the shoes. Colors drift between items when you do not note them as you hear them.
-
-**Item 9: D.** "He just got one open... he's leaning inside it now." *Why not A:* he did more than try the handle. *Why not B:* the caller never said a window was broken. *Why not C:* he walked away from it.
-
-**Item 10: A.** "Walking toward the stairwell by the elevators." *Why not B:* an exit ramp was never mentioned.
-
-**Item 11: A. A black backpack.** *Why not B:* the gray item was the hoodie.
-
-**Item 12: B.** It is the only option with the location, level, behavior, full description, direction and callback, and nothing invented. *A* says the car was stolen. *C* adds broken windows and a weapon. *D* has the wrong hoodie color and the wrong direction.
+**Item 5: B.** It is the only option with the location, level, behavior, full description, direction and callback, and nothing invented. *A* says the car was stolen. *C* adds broken windows and a weapon. *D* has the wrong hoodie color and the wrong direction.
 
 </details>
 
+Want more? The [free timed CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=criticall) has the full 60 questions across eleven modules, with every answer explained.
+
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | B | C | A | B | D | A | C | B | D | A | A | B |
+| Item | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| Answer | C | A | A | B | B |
 
-- **11 to 12:** strong listening. Practice again with someone reading faster.
-- **8 to 10:** check which kind of fact you lost. Numbers and directions are the usual ones. Note those first.
-- **7 or fewer:** before the next attempt, write the list "what, where, who, description, direction, callback" at the top of your notes and fill it as you read.
+- **5:** strong listening. Practice again with someone reading faster.
+- **3 to 4:** check which kind of fact you lost. Numbers and directions are the usual ones. Note those first.
+- **2 or fewer:** before the next attempt, write the list "what, where, who, description, direction, callback" at the top of your notes and fill it as you read.
 
 ## Next step
 

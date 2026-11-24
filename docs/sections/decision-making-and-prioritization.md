@@ -1,4 +1,4 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [15-minute diagnostic](../diagnostic.md) · Next: [Data entry and keyboarding](data-entry-and-keyboarding.md)<!-- /nav:top -->
+<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [5-minute diagnostic](../diagnostic.md) · Next: [Data entry and keyboarding](data-entry-and-keyboarding.md)<!-- /nav:top -->
 
 # Decision making and prioritization
 
@@ -56,83 +56,54 @@ Fifteen seconds per message is enough if you know the rules, and not nearly enou
 
 ## Practice items
 
-These 12 items are original, written for these notes. They are not taken from CritiCall or any publisher's materials. For items 1 to 10, choose **Police, Fire, EMS or Utility** using only the four rules above. Give yourself 10 seconds each.
+These 5 items are original, written for these notes. They are not taken from CritiCall or any publisher's materials. For items 1 to 4, choose **Police, Fire, EMS or Utility** using only the four rules above. Give yourself 10 seconds each.
 
-**Item 1.** A teenager is spray-painting words across the side of a neighbor's garage.
+**Item 1.** The traffic signal at a busy junction is stuck on red in every direction.
 
-**Item 2.** The traffic signal at a busy junction is stuck on red in every direction.
+**Item 2.** A toddler is locked inside a car in a hot parking lot and his mother cannot open the door.
 
-**Item 3.** Gray smoke is pouring out of the back door of a laundromat.
+**Item 3.** A man in a parking lot is swinging a baseball bat at people walking past.
 
-**Item 4.** An older man has collapsed at a bus stop and is not breathing normally.
-
-**Item 5.** A toddler is locked inside a car in a hot parking lot and his mother cannot open the door.
-
-**Item 6.** Water is gushing out of a broken main and flooding the street.
-
-**Item 7.** A man in a parking lot is swinging a baseball bat at people walking past.
-
-**Item 8.** The fire alarm is ringing throughout an apartment building. No one can see smoke.
-
-**Item 9.** A woman has cut her hand badly in the kitchen. She is conscious but bleeding heavily.
-
-**Item 10.** A manhole cover is overflowing with sewage because the drain under the street is blocked.
+**Item 4.** The fire alarm is ringing throughout an apartment building. No one can see smoke.
 
 <details>
-<summary>Answers and explanations, items 1 to 10</summary>
+<summary>Answers and explanations, items 1 to 4</summary>
 
-**Item 1: Police.** Someone is damaging another person's property right now. *Why not Utility:* a garage wall is private property, not a public water, power, gas or sewer system.
+**Item 1: Utility.** Traffic signals are named in the Utility rule as part of the electric power system. *Why not Police:* nobody is causing harm or damage. The signal has simply malfunctioned.
 
-**Item 2: Utility.** Traffic signals are named in the Utility rule as part of the electric power system. *Why not Police:* nobody is causing harm or damage. The signal has simply malfunctioned.
+**Item 2: Fire.** The child is trapped in a car and needs to be released, which is the Fire rule. *Why not EMS:* the message does not describe a medical condition yet. The urgent need is getting him out, and the rules give that job to Fire.
 
-**Item 3: Fire.** Smoke is a visible sign of a fire in progress. *Why not Utility:* a laundromat is a business, and nothing in the message points to a broken public system.
+**Item 3: Police.** He is trying to physically harm other people. *Why not EMS:* the message does not say anyone has been injured, and even if they had, the person attacking is the trigger for Police.
 
-**Item 4: EMS.** Not breathing normally is an emergency medical condition that needs trained medical staff. *Why not Fire:* he is not trapped or confined.
-
-**Item 5: Fire.** The child is trapped in a car and needs to be released, which is the Fire rule. *Why not EMS:* the message does not describe a medical condition yet. The urgent need is getting him out, and the rules give that job to Fire.
-
-**Item 6: Utility.** A broken water main is a public water system problem. *Why not Fire:* there is no fire and no one trapped.
-
-**Item 7: Police.** He is trying to physically harm other people. *Why not EMS:* the message does not say anyone has been injured, and even if they had, the person attacking is the trigger for Police.
-
-**Item 8: Fire.** A sounding fire alarm is its own trigger under the Fire rule. *Why not Police:* a false alarm might turn out to be a prank, but the message does not say anyone pulled it, and the rule does not require smoke.
-
-**Item 9: EMS.** Heavy bleeding is a medical emergency. *Why not Police:* nothing suggests anyone else caused the injury.
-
-**Item 10: Utility.** A blocked sewer drain is named in the Utility rule. *Why not Police:* nobody is damaging property.
+**Item 4: Fire.** A sounding fire alarm is its own trigger under the Fire rule. *Why not Police:* a false alarm might turn out to be a prank, but the message does not say anyone pulled it, and the rule does not require smoke.
 
 </details>
 
-For items 11 and 12, choose which call should be handled first. Use the common rule: an immediate threat to life first.
+For item 5, choose which call should be handled first. Use the common rule: an immediate threat to life first.
 
-**Item 11.** Three calls are waiting.
-A. A neighbor complains about loud music from a party.
-B. A driver found his car broken into overnight. The thief is long gone.
-C. A caller says smoke is coming from the house next door and she thinks her elderly neighbor is still inside.
-
-**Item 12.** Three calls are waiting.
+**Item 5.** Three calls are waiting.
 A. A store reports a shoplifter who left 20 minutes ago.
 B. A caller says a man is standing on the outside of a bridge railing, saying he is going to jump.
 C. A driver reports a dog wandering along the shoulder of a quiet road.
 
 <details>
-<summary>Answers and explanations, items 11 and 12</summary>
+<summary>Answers and explanations, item 5</summary>
 
-**Item 11: C.** A person may be inside a burning house, which is an immediate threat to life. *Why not B:* the break-in is over and no one is in danger. *Why not A:* a noise complaint is a nuisance, not a danger.
-
-**Item 12: B.** A person is threatening to end their life right now, which is the most urgent threat to life. *Why not C:* a loose dog can cause a crash, so it matters, but the risk is lower and less immediate. *Why not A:* the theft is over and the suspect is gone.
+**Item 5: B.** A person is threatening to end their life right now, which is the most urgent threat to life. *Why not C:* a loose dog can cause a crash, so it matters, but the risk is lower and less immediate. *Why not A:* the theft is over and the suspect is gone.
 
 </details>
 
+Want more? The [free timed CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=criticall) has the full 60 questions across eleven modules, with every answer explained.
+
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | Police | Utility | Fire | EMS | Fire | Utility | Police | Fire | EMS | Utility | C | B |
+| Item | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| Answer | Utility | Fire | Police | Fire | B |
 
-- **11 to 12:** you know the rules. Now practice them while doing something else, such as typing a paragraph and having a friend read you messages.
-- **8 to 10:** look at which rule you broke. Most misses come from items 5 and 8, where common sense points somewhere other than the rule.
-- **7 or fewer:** go back to the rules table and drill flashcards until you answer each one in under five seconds.
+- **5:** you know the rules. Now practice them while doing something else, such as typing a paragraph and having a friend read you messages.
+- **3 to 4:** look at which rule you broke. Most misses come from items 2 and 4, where common sense points somewhere other than the rule.
+- **2 or fewer:** go back to the rules table and drill flashcards until you answer each one in under five seconds.
 
 ## Next step
 
@@ -140,4 +111,4 @@ The real difficulty is the clock and the interruptions. Try decision items under
 
 ---
 
-<!-- nav:bottom -->← Previous: [15-minute diagnostic](../diagnostic.md) | Next: [Data entry and keyboarding](data-entry-and-keyboarding.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->← Previous: [5-minute diagnostic](../diagnostic.md) | Next: [Data entry and keyboarding](data-entry-and-keyboarding.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->

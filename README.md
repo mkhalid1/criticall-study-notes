@@ -1,12 +1,12 @@
 # CritiCall Study Notes
 
-A free, complete study guide for CritiCall, the pre-employment test that many 911 centers use to screen dispatcher, call taker and telecommunicator applicants. It covers how the test works, a clear method for every module group, 114 original practice items with full explanations, two original practice maps, how agencies use the scores, and study plans for a week or a weekend. Written for people applying to 911 and public-safety dispatch jobs, with a page on where CritiCall sits in a real [hiring process](docs/dispatcher-applicants.md). Facts about the test come only from the publisher, Biddle Consulting Group, and from agencies' own pages, each one [cited](docs/sources.md).
+A free, complete study guide for CritiCall, the pre-employment test that many 911 centers use to screen dispatcher, call taker and telecommunicator applicants. It covers how the test works, a clear method for every module group, 50 original practice items with full explanations, two original practice maps, how agencies use the scores, and study plans for a week or a weekend. Written for people applying to 911 and public-safety dispatch jobs, with a page on where CritiCall sits in a real [hiring process](docs/dispatcher-applicants.md). Facts about the test come only from the publisher, Biddle Consulting Group, and from agencies' own pages, each one [cited](docs/sources.md).
 
-Want to see where you stand first? Take the [free timed CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=criticall), or the shorter [15-minute diagnostic](docs/diagnostic.md) in this repo.
+Want to see where you stand first? Take the [free timed CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=criticall), or the shorter [5-minute diagnostic](docs/diagnostic.md) in this repo.
 
 ## Start here
 
-1. **Find your weak modules.** Take the [15-minute diagnostic](docs/diagnostic.md). It has three items for each module group and tells you where to start.
+1. **Find your weak modules.** Take the [5-minute diagnostic](docs/diagnostic.md). It has one item for each module group and tells you where to start.
 2. **Fix the weakest module first.** Open its guide below, learn the method, then do its practice items. If your invitation lists the modules you will take, start with those.
 3. **Follow a plan.** Use the [7-day plan](docs/study-plans.md#7-day-plan), or the [2-day plan](docs/study-plans.md#2-day-plan) if your test link has already arrived.
 
@@ -42,7 +42,7 @@ Sources: [CritiCall](https://criticall911.com/dispatcher-testing/agencieshr), th
 | Spelling and proofreading | Spell confusable words and fix errors | [Spelling](docs/sections/spelling-and-proofreading.md) |
 | Situational judgment and personality | Handle tough calls well, and answer a work-style questionnaire | [Situational](docs/sections/situational-judgment-and-personality.md) |
 
-Every module guide has the same parts: what it measures, how the questions look, a step-by-step method, the traps that cost points, timing advice, 10 to 12 original practice items with explanations, and a score table.
+Every module guide has the same parts: what it measures, how the questions look, a step-by-step method, the traps that cost points, timing advice, 5 original practice items with explanations, and a score table.
 
 ## Contents
 
@@ -57,7 +57,7 @@ Every module guide has the same parts: what it measures, how the questions look,
   - [How the test is built](docs/test-overview.md#how-the-test-is-built)
   - [CritiCall Classic and CritiCall3D](docs/test-overview.md#criticall-classic-and-criticall3d)
   - [Practice the real format](docs/test-overview.md#practice-the-real-format)
-- [15-minute diagnostic](docs/diagnostic.md)
+- [5-minute diagnostic](docs/diagnostic.md)
   - [Part A: Decision making](docs/diagnostic.md#part-a-decision-making)
   - [Part B: Data entry](docs/diagnostic.md#part-b-data-entry)
   - [Part C: Call summarization](docs/diagnostic.md#part-c-call-summarization)
@@ -232,7 +232,7 @@ Every module guide has the same parts: what it measures, how the questions look,
 
 ## About the practice items
 
-All 114 module practice items, the 30 diagnostic items, the call transcripts and the two maps are original, written for these notes. None are taken from CritiCall, from Biddle Consulting Group's materials or from any prep site. They follow the published descriptions of each module so that the methods you learn here carry over to the real test. Real 911 centers follow their own protocols, so the prioritization and situational answers use common principles, not any one agency's rules.
+All 50 module practice items, the 10 diagnostic items, the call transcripts and the two maps are original, written for these notes. None are taken from CritiCall, from Biddle Consulting Group's materials or from any prep site. They follow the published descriptions of each module so that the methods you learn here carry over to the real test. Real 911 centers follow their own protocols, so the prioritization and situational answers use common principles, not any one agency's rules.
 
 ## Contributing
 

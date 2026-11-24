@@ -41,86 +41,52 @@ Spelling items take seconds if you know the word and much longer if you do not, 
 
 ## Practice items
 
-These 12 items are original, written for these notes. They are not taken from CritiCall or any publisher's materials.
+These 5 items are original, written for these notes. They are not taken from CritiCall or any publisher's materials.
 
-For items 1 to 6, choose the correct word for the blank.
+For items 1 and 2, choose the correct word for the blank.
 
 **Item 1.** Two ___ were taken to County General after the crash.
 A. patience B. patients C. patents D. patience's
 
-**Item 2.** The caller said her husband could not ___ properly.
-A. breathes B. breth C. breath D. breathe
-
-**Item 3.** The truck's ___ failed on the hill.
-A. brakes B. breaks C. brake's D. braiks
-
-**Item 4.** The suspect ran out of ___ behind the warehouse.
+**Item 2.** The suspect ran out of ___ behind the warehouse.
 A. site B. cite C. sight D. sighte
 
-**Item 5.** The man was found ___ on the kitchen floor.
-A. unconscience B. unconscious C. unconcious D. unconsious
+For items 3 and 4, choose the correctly spelled word.
 
-**Item 6.** ___ car is still parked in the fire lane.
-A. There B. They're C. Their D. Thier
+**Item 3.** A. ocurred B. occured C. occurred D. ocurrred
 
-For items 7 to 10, choose the correctly spelled word.
+**Item 4.** A. seizure B. siezure C. seisure D. seizeure
 
-**Item 7.** A. ocurred B. occured C. occurred D. ocurrred
-
-**Item 8.** A. seizure B. siezure C. seisure D. seizeure
-
-**Item 9.** A. ambulanse B. ambulence C. ambulanc D. ambulance
-
-**Item 10.** A. intersectoin B. intresection C. intersection D. intersecion
-
-**Item 11.** Which sentence has no errors?
-A. The caller recieved a text from her son at 10:15.
-B. The caller received a text from her son at 10:15.
-C. The caller received a text from her son, at 10:15
-D. The caller recieved a text from her son at 10:15.
-
-**Item 12.** How many errors does this sentence contain? Count each wrong word or missing mark as one error.
+**Item 5.** How many errors does this sentence contain? Count each wrong word or missing mark as one error.
 "The officer said there car was parked to close to the hydrant"
 A. 1 B. 2 C. 3 D. 4
 
 <details>
-<summary>Answers and explanations, items 1 to 12</summary>
+<summary>Answers and explanations, items 1 to 5</summary>
 
 **Item 1: B. patients.** People receiving medical care. *Why not A:* patience is the ability to wait calmly, which is exactly the mix-up the candidate guide warns about.
 
-**Item 2: D. breathe.** The verb. *Why not C:* breath is the noun ("a deep breath").
+**Item 2: C. sight.** Out of sight means where he could not be seen. *Why not A:* a site is a place, such as a building site.
 
-**Item 3: A. brakes.** The parts that stop a vehicle. *Why not B:* breaks means pieces snapping or pauses.
+**Item 3: C. occurred.** Double c and double r.
 
-**Item 4: C. sight.** Out of sight means where he could not be seen. *Why not A:* a site is a place, such as a building site.
+**Item 4: A. seizure.** One of the exceptions to "i before e".
 
-**Item 5: B. unconscious.** *Why not C:* it drops the s before the c.
-
-**Item 6: C. Their.** It shows whose car. *Why not A:* there is a place. *Why not B:* they're means they are.
-
-**Item 7: C. occurred.** Double c and double r.
-
-**Item 8: A. seizure.** One of the exceptions to "i before e".
-
-**Item 9: D. ambulance.** Ends in -ance.
-
-**Item 10: C. intersection.**
-
-**Item 11: B.** *A* and *D* misspell received. *C* adds an unneeded comma and drops the period at the end.
-
-**Item 12: C. 3.** "there" should be "their", "to close" should be "too close", and the sentence is missing its period. *Why not B:* the missing period at the end counts as an error too.
+**Item 5: C. 3.** "there" should be "their", "to close" should be "too close", and the sentence is missing its period. *Why not B:* the missing period at the end counts as an error too.
 
 </details>
 
+Want more? The [free timed CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=criticall) has the full 60 questions across eleven modules, with every answer explained.
+
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | B | D | A | C | B | C | C | A | D | C | B | C |
+| Item | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| Answer | B | C | C | A | C |
 
-- **11 to 12:** strong speller. Light review of the list below is enough.
-- **8 to 10:** make flashcards for every word you missed and for its sound-alike.
-- **7 or fewer:** spend ten minutes a day on the list below for a week, typing each word, not just reading it.
+- **5:** strong speller. Light review of the list below is enough.
+- **3 to 4:** make flashcards for every word you missed and for its sound-alike.
+- **2 or fewer:** spend ten minutes a day on the list below for a week, typing each word, not just reading it.
 
 ## Words worth knowing
 

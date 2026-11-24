@@ -39,9 +39,9 @@ Each lookup should take only a few seconds once you use the sort order. Comparis
 
 ## Practice items
 
-These 11 items are original, written for these notes, and so is the directory. They are not taken from CritiCall or any publisher's materials.
+These 5 items are original, written for these notes, and so is the directory. They are not taken from CritiCall or any publisher's materials.
 
-### Directory for items 1 to 5
+### Directory for items 1 and 2
 
 | Last name | First name | Address | Phone |
 |---|---|---|---|
@@ -57,73 +57,47 @@ These 11 items are original, written for these notes, and so is the directory. T
 **Item 1.** What is the address for HARLOW, DENNIS?
 A. 47 MILLBROOK CT B. 1150 VESTRY LN C. 306 PELHAM WAY D. 1150 VESTRY RD
 
-**Item 2.** What is the phone number for NASH, PRIYA?
-A. 555-0846 B. 555-0729 C. 555-0864 D. 555-0392
-
-**Item 3.** Who lives at 306 PELHAM WAY?
-A. BOATENG, AMA B. VOSS, GRETA C. IBARRA, LUZ D. NAKAMURA, KEN
-
-**Item 4.** Which person has the phone number 555-0935?
-A. HARLOW, DENNIS B. ABERNATHY, LEON C. HARLOW, DANA D. NASH, PRIYA
-
-**Item 5.** What is the address for the person whose phone number is 555-0287?
+**Item 2.** What is the address for the person whose phone number is 555-0287?
 A. 902 SHELDON AVE B. 18 QUARRY RD C. 71 ORCHARD ST D. 902 SHELTON AVE
 
-### Comparisons for items 6 to 11
+### Comparisons for items 3 to 5
 
-The strings are shown in a fixed-width font, as they would be on a dispatch screen. For items 6 to 9, decide whether the two strings are **Same** or **Different**.
+The strings are shown in a fixed-width font, as they would be on a dispatch screen. For items 3 and 4, decide whether the two strings are **Same** or **Different**.
 
-**Item 6.** `4417 BRAMBLEWOOD DR` / `4417 BRAMBLEWOOD DR`
+**Item 3.** `7KDR214` / `7KDR2l4`
 
-**Item 7.** `7KDR214` / `7KDR2l4`
+**Item 4.** `1HGCM82633A004352` / `1HGCM82633A004352`
 
-**Item 8.** `CALLE DE LOS ROBLES 12` / `CALLE DE LOS ROBELS 12`
-
-**Item 9.** `1HGCM82633A004352` / `1HGCM82633A004352`
-
-**Item 10.** Which string matches the target exactly? Target: `6ZB4417`
-A. `6ZB4471` B. `6Z84417` C. `6ZB4417` D. `6ZD4417`
-
-**Item 11.** How many of these four pairs are exactly the same?
+**Item 5.** How many of these four pairs are exactly the same?
 (1) `555-0912` / `555-0912` (2) `MARQUETTE` / `MARQUETE` (3) `88 ELM CT` / `88 ELM CT` (4) `W2X9P0` / `W2X9PO`
 A. 1 B. 2 C. 3 D. 4
 
 <details>
-<summary>Answers and explanations, items 1 to 11</summary>
+<summary>Answers and explanations, items 1 to 5</summary>
 
 **Item 1: B. 1150 VESTRY LN.** There are two people named HARLOW. Dennis is the second. *Why not A:* that is Dana's address. *Why not D:* the street type is LN, not RD.
 
-**Item 2: A. 555-0846.** *Why not C:* 0864 swaps the last two digits.
+**Item 2: A. 902 SHELDON AVE.** 555-0287 belongs to BOATENG, AMA. *Why not D:* SHELTON is one letter off.
 
-**Item 3: C. IBARRA, LUZ.**
+**Item 3: Different.** The second string has a lowercase letter l where the first has the digit 1. *Why it matters:* in a plate search, that is a different vehicle.
 
-**Item 4: C. HARLOW, DANA.** *Why not A:* Dennis Harlow's number is 555-0473.
+**Item 4: Same.** Compare in chunks: 1HGCM, 82633, A0043, 52. All match.
 
-**Item 5: A. 902 SHELDON AVE.** 555-0287 belongs to BOATENG, AMA. *Why not D:* SHELTON is one letter off.
-
-**Item 6: Same.** Every character matches.
-
-**Item 7: Different.** The second string has a lowercase letter l where the first has the digit 1. *Why it matters:* in a plate search, that is a different vehicle.
-
-**Item 8: Different.** ROBLES and ROBELS swap two letters.
-
-**Item 9: Same.** Compare in chunks: 1HGCM, 82633, A0043, 52. All match.
-
-**Item 10: C. 6ZB4417.** *A* swaps 17 to 71. *B* has the digit 8 instead of the letter B. *D* has D instead of B.
-
-**Item 11: B. 2.** Pairs 1 and 3 match. Pair 2 drops a T from MARQUETTE. Pair 4 ends with the digit 0 in one string and the letter O in the other.
+**Item 5: B. 2.** Pairs 1 and 3 match. Pair 2 drops a T from MARQUETTE. Pair 4 ends with the digit 0 in one string and the letter O in the other.
 
 </details>
 
+Want more? The [free timed CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=criticall) has the full 60 questions across eleven modules, with every answer explained.
+
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | B | A | C | C | A | Same | Different | Different | Same | C | B |
+| Item | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| Answer | B | A | Different | Same | B |
 
-- **10 to 11:** sharp eyes. Work on speed.
-- **7 to 9:** most misses here are swapped pairs or look-alike characters. Make the chunking habit automatic.
-- **6 or fewer:** slow right down for a week. Accuracy first, then speed.
+- **5:** sharp eyes. Work on speed.
+- **3 to 4:** most misses here are swapped pairs or look-alike characters. Make the chunking habit automatic.
+- **2 or fewer:** slow right down for a week. Accuracy first, then speed.
 
 ## Next step
 

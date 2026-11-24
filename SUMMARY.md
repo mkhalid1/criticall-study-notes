@@ -5,7 +5,7 @@
 ## Start here
 
 * [The CritiCall test explained](docs/test-overview.md)
-* [15-minute diagnostic](docs/diagnostic.md)
+* [5-minute diagnostic](docs/diagnostic.md)
 
 ## The modules
 
