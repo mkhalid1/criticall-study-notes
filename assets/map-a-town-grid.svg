@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 600" width="640" height="600" role="img" aria-label="Map A: a small town grid with four avenues, four streets, a river and two bridges">
+<rect x="0" y="0" width="640" height="600" fill="#ffffff"/>
+<rect x="60" y="330" width="520" height="50" fill="#bfe0f5"/>
+<text x="185" y="360" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#1d5f8a" text-anchor="middle" font-style="italic">RIVER</text>
+<line x1="80" y1="90" x2="560" y2="90" stroke="#555" stroke-width="14" stroke-linecap="butt"/>
+<line x1="80" y1="190" x2="560" y2="190" stroke="#555" stroke-width="14" stroke-linecap="butt"/>
+<line x1="80" y1="290" x2="560" y2="290" stroke="#555" stroke-width="14" stroke-linecap="butt"/>
+<line x1="80" y1="420" x2="560" y2="420" stroke="#555" stroke-width="14" stroke-linecap="butt"/>
+<line x1="120" y1="60" x2="120" y2="322" stroke="#555" stroke-width="14" stroke-linecap="butt"/>
+<line x1="120" y1="388" x2="120" y2="450" stroke="#555" stroke-width="14" stroke-linecap="butt"/>
+<line x1="108" y1="322" x2="132" y2="322" stroke="#c0392b" stroke-width="4"/>
+<line x1="108" y1="388" x2="132" y2="388" stroke="#c0392b" stroke-width="4"/>
+<text x="132" y="318" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#c0392b">DEAD END</text>
+<line x1="250" y1="60" x2="250" y2="450" stroke="#555" stroke-width="14" stroke-linecap="butt"/>
+<rect x="237" y="326" width="26" height="58" fill="#8a8a8a" stroke="#333" stroke-width="2"/>
+<text x="266" y="345" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#222">BRIDGE</text>
+<line x1="380" y1="60" x2="380" y2="322" stroke="#555" stroke-width="14" stroke-linecap="butt"/>
+<line x1="380" y1="388" x2="380" y2="450" stroke="#555" stroke-width="14" stroke-linecap="butt"/>
+<line x1="368" y1="322" x2="392" y2="322" stroke="#c0392b" stroke-width="4"/>
+<line x1="368" y1="388" x2="392" y2="388" stroke="#c0392b" stroke-width="4"/>
+<text x="392" y="318" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#c0392b">DEAD END</text>
+<line x1="510" y1="60" x2="510" y2="450" stroke="#555" stroke-width="14" stroke-linecap="butt"/>
+<rect x="497" y="326" width="26" height="58" fill="#8a8a8a" stroke="#333" stroke-width="2"/>
+<text x="526" y="345" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#222">BRIDGE</text>
+<text x="120" y="45" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#111" text-anchor="middle">1st Ave</text>
+<text x="250" y="45" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#111" text-anchor="middle">2nd Ave</text>
+<text x="380" y="45" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#111" text-anchor="middle">3rd Ave</text>
+<text x="510" y="45" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#111" text-anchor="middle">4th Ave</text>
+<text x="72" y="95" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#111" text-anchor="end">Oak St</text>
+<text x="72" y="195" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#111" text-anchor="end">Pine St</text>
+<text x="72" y="295" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#111" text-anchor="end">Elm St</text>
+<text x="72" y="425" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#111" text-anchor="end">Cedar St</text>
+<polygon points="171,190 191,184 191,196" fill="#ffffff"/>
+<line x1="189" y1="190" x2="203" y2="190" stroke="#fff" stroke-width="3"/>
+<polygon points="301,190 321,184 321,196" fill="#ffffff"/>
+<line x1="319" y1="190" x2="333" y2="190" stroke="#fff" stroke-width="3"/>
+<polygon points="431,190 451,184 451,196" fill="#ffffff"/>
+<line x1="449" y1="190" x2="463" y2="190" stroke="#fff" stroke-width="3"/>
+<text x="315" y="212" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#111" text-anchor="middle">ONE WAY, WESTBOUND ONLY</text>
+<polygon points="380,154 374,134 386,134" fill="#ffffff"/>
+<line x1="380" y1="122" x2="380" y2="136" stroke="#fff" stroke-width="3"/>
+<polygon points="380,254 374,234 386,234" fill="#ffffff"/>
+<line x1="380" y1="222" x2="380" y2="236" stroke="#fff" stroke-width="3"/>
+<text x="392" y="245" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#111">ONE WAY,</text><text x="392" y="258" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#111">SOUTHBOUND</text>
+<line x1="433" y1="78" x2="457" y2="102" stroke="#c0392b" stroke-width="5"/><line x1="433" y1="102" x2="457" y2="78" stroke="#c0392b" stroke-width="5"/>
+<text x="445" y="74" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="bold" fill="#c0392b" text-anchor="middle">ROAD CLOSED</text>
+<circle cx="120" cy="90" r="9" fill="#c0392b" stroke="#fff" stroke-width="2"/>
+<text x="128" y="74" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" fill="#c0392b">FIRE STATION 1</text>
+<circle cx="510" cy="90" r="9" fill="#2c3e50" stroke="#fff" stroke-width="2"/>
+<text x="518" y="118" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">CITY HALL</text>
+<circle cx="380" cy="190" r="9" fill="#8e44ad" stroke="#fff" stroke-width="2"/>
+<text x="388" y="174" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" fill="#8e44ad">LIBRARY</text>
+<circle cx="120" cy="290" r="9" fill="#d35400" stroke="#fff" stroke-width="2"/>
+<text x="128" y="274" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" fill="#d35400">SCHOOL</text>
+<circle cx="380" cy="420" r="9" fill="#27ae60" stroke="#fff" stroke-width="2"/>
+<text x="388" y="448" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">HOSPITAL</text>
+<circle cx="120" cy="420" r="9" fill="#7f6000" stroke="#fff" stroke-width="2"/>
+<text x="128" y="448" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" fill="#7f6000">GAS STATION</text>
+<line x1="605" y1="272" x2="605" y2="228" stroke="#111" stroke-width="2"/><polygon points="605,220 599,232 611,232" fill="#111"/>
+<text x="605" y="216" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#111">N</text>
+<text x="605" y="288" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" fill="#111">S</text><text x="585" y="255" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" fill="#111">W</text><text x="625" y="255" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" fill="#111">E</text>
+<rect x="20" y="475" width="600" height="110" fill="#f4f4f4" stroke="#999"/>
+<text x="32" y="500" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#111">MAP A. Every block between two neighbouring streets or avenues is the same length,</text>
+<text x="32" y="522" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#111">including the block that crosses the river. Arrows show the only legal direction on a</text>
+<text x="32" y="544" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#111">one-way road. Two-way roads have no arrows. The red X marks a closed block. Only 2nd Ave</text>
+<text x="32" y="566" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#111">and 4th Ave have bridges; 1st Ave and 3rd Ave stop at the river (DEAD END).</text>
+</svg>
