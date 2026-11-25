@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Call summarization](call-summarization.md) · Next: [Cross-referencing and perceptual ability](cross-referencing-and-perceptual-ability.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Call summarization](call-summarization.md) · Next: [Cross-referencing and perceptual ability](cross-referencing-and-perceptual-ability.md)
+<!-- /nav:top -->
 
 # Memory recall
 
@@ -135,4 +137,6 @@ Memory items feel very different when a voice reads them at speed. Try the audio
 
 ---
 
-<!-- nav:bottom -->← Previous: [Call summarization](call-summarization.md) | Next: [Cross-referencing and perceptual ability](cross-referencing-and-perceptual-ability.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Call summarization](call-summarization.md) | Next: [Cross-referencing and perceptual ability](cross-referencing-and-perceptual-ability.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

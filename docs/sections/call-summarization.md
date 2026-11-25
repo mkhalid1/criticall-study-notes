@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Data entry and keyboarding](data-entry-and-keyboarding.md) · Next: [Memory recall](memory-recall.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Data entry and keyboarding](data-entry-and-keyboarding.md) · Next: [Memory recall](memory-recall.md)
+<!-- /nav:top -->
 
 # Call summarization
 
@@ -119,4 +121,6 @@ Practice listening and typing at the same pace as a real call, with no replay. A
 
 ---
 
-<!-- nav:bottom -->← Previous: [Data entry and keyboarding](data-entry-and-keyboarding.md) | Next: [Memory recall](memory-recall.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Data entry and keyboarding](data-entry-and-keyboarding.md) | Next: [Memory recall](memory-recall.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

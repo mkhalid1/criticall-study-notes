@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Memory recall](memory-recall.md) · Next: [Map reading and position locating](map-reading-and-position-locating.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Memory recall](memory-recall.md) · Next: [Map reading and position locating](map-reading-and-position-locating.md)
+<!-- /nav:top -->
 
 # Cross-referencing and perceptual ability
 
@@ -105,4 +107,6 @@ Try lookups and comparisons against the clock in the [free CritiCall practice te
 
 ---
 
-<!-- nav:bottom -->← Previous: [Memory recall](memory-recall.md) | Next: [Map reading and position locating](map-reading-and-position-locating.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Memory recall](memory-recall.md) | Next: [Map reading and position locating](map-reading-and-position-locating.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

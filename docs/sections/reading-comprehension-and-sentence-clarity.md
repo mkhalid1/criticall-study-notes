@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Probability and numerical ability](probability-and-numerical-ability.md) · Next: [Spelling and proofreading](spelling-and-proofreading.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Probability and numerical ability](probability-and-numerical-ability.md) · Next: [Spelling and proofreading](spelling-and-proofreading.md)
+<!-- /nav:top -->
 
 # Reading comprehension and sentence clarity
 
@@ -107,4 +109,6 @@ Reading under time pressure is different from reading at a desk. Try these modul
 
 ---
 
-<!-- nav:bottom -->← Previous: [Probability and numerical ability](probability-and-numerical-ability.md) | Next: [Spelling and proofreading](spelling-and-proofreading.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Probability and numerical ability](probability-and-numerical-ability.md) | Next: [Spelling and proofreading](spelling-and-proofreading.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

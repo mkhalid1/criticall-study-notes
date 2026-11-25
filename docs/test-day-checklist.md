@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [For 911 dispatcher applicants](dispatcher-applicants.md) · Next: [FAQ](faq.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [For 911 dispatcher applicants](dispatcher-applicants.md) · Next: [FAQ](faq.md)
+<!-- /nav:top -->
 
 # Test-day checklist
 
@@ -54,4 +56,6 @@ A short timed warm-up the day before, such as part of the [free CritiCall practi
 
 ---
 
-<!-- nav:bottom -->← Previous: [For 911 dispatcher applicants](dispatcher-applicants.md) | Next: [FAQ](faq.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [For 911 dispatcher applicants](dispatcher-applicants.md) | Next: [FAQ](faq.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

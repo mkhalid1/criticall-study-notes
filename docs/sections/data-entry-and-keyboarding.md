@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Decision making and prioritization](decision-making-and-prioritization.md) · Next: [Call summarization](call-summarization.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Decision making and prioritization](decision-making-and-prioritization.md) · Next: [Call summarization](call-summarization.md)
+<!-- /nav:top -->
 
 # Data entry and keyboarding
 
@@ -114,4 +116,6 @@ Data entry is a speed skill, and reading about it only goes so far. The candidat
 
 ---
 
-<!-- nav:bottom -->← Previous: [Decision making and prioritization](decision-making-and-prioritization.md) | Next: [Call summarization](call-summarization.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Decision making and prioritization](decision-making-and-prioritization.md) | Next: [Call summarization](call-summarization.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

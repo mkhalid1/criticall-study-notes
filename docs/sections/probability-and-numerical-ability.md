@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Map reading and position locating](map-reading-and-position-locating.md) · Next: [Reading comprehension and sentence clarity](reading-comprehension-and-sentence-clarity.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Map reading and position locating](map-reading-and-position-locating.md) · Next: [Reading comprehension and sentence clarity](reading-comprehension-and-sentence-clarity.md)
+<!-- /nav:top -->
 
 # Probability and numerical ability
 
@@ -93,4 +95,6 @@ Mixed with other modules, these items get harder than they look. Try them under 
 
 ---
 
-<!-- nav:bottom -->← Previous: [Map reading and position locating](map-reading-and-position-locating.md) | Next: [Reading comprehension and sentence clarity](reading-comprehension-and-sentence-clarity.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Map reading and position locating](map-reading-and-position-locating.md) | Next: [Reading comprehension and sentence clarity](reading-comprehension-and-sentence-clarity.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

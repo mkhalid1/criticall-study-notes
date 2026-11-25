@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Spelling and proofreading](spelling-and-proofreading.md) · Next: [How scoring works](../scoring.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Spelling and proofreading](spelling-and-proofreading.md) · Next: [How scoring works](../scoring.md)
+<!-- /nav:top -->
 
 # Situational judgment and personality
 
@@ -114,4 +116,6 @@ Situational items feel easy on paper and harder after an hour of multitasking. T
 
 ---
 
-<!-- nav:bottom -->← Previous: [Spelling and proofreading](spelling-and-proofreading.md) | Next: [How scoring works](../scoring.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Spelling and proofreading](spelling-and-proofreading.md) | Next: [How scoring works](../scoring.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

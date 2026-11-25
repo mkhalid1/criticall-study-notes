@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Reading comprehension and sentence clarity](reading-comprehension-and-sentence-clarity.md) · Next: [Situational judgment and personality](situational-judgment-and-personality.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Reading comprehension and sentence clarity](reading-comprehension-and-sentence-clarity.md) · Next: [Situational judgment and personality](situational-judgment-and-personality.md)
+<!-- /nav:top -->
 
 # Spelling and proofreading
 
@@ -112,4 +114,6 @@ The free TestGenius sample tests for spelling and proofreading are linked from t
 
 ---
 
-<!-- nav:bottom -->← Previous: [Reading comprehension and sentence clarity](reading-comprehension-and-sentence-clarity.md) | Next: [Situational judgment and personality](situational-judgment-and-personality.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Reading comprehension and sentence clarity](reading-comprehension-and-sentence-clarity.md) | Next: [Situational judgment and personality](situational-judgment-and-personality.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

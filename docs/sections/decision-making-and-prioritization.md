@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [5-minute diagnostic](../diagnostic.md) · Next: [Data entry and keyboarding](data-entry-and-keyboarding.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [5-minute diagnostic](../diagnostic.md) · Next: [Data entry and keyboarding](data-entry-and-keyboarding.md)
+<!-- /nav:top -->
 
 # Decision making and prioritization
 
@@ -111,4 +113,6 @@ The real difficulty is the clock and the interruptions. Try decision items under
 
 ---
 
-<!-- nav:bottom -->← Previous: [5-minute diagnostic](../diagnostic.md) | Next: [Data entry and keyboarding](data-entry-and-keyboarding.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [5-minute diagnostic](../diagnostic.md) | Next: [Data entry and keyboarding](data-entry-and-keyboarding.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

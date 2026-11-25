@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [The CritiCall test explained](test-overview.md) · Next: [Decision making and prioritization](sections/decision-making-and-prioritization.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [The CritiCall test explained](test-overview.md) · Next: [Decision making and prioritization](sections/decision-making-and-prioritization.md)
+<!-- /nav:top -->
 
 # 5-minute diagnostic
 
@@ -177,4 +179,6 @@ Then pick a plan: the [7-day plan](study-plans.md#7-day-plan) if you have a week
 
 ---
 
-<!-- nav:bottom -->← Previous: [The CritiCall test explained](test-overview.md) | Next: [Decision making and prioritization](sections/decision-making-and-prioritization.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [The CritiCall test explained](test-overview.md) | Next: [Decision making and prioritization](sections/decision-making-and-prioritization.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

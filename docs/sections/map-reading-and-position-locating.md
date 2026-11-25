@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Cross-referencing and perceptual ability](cross-referencing-and-perceptual-ability.md) · Next: [Probability and numerical ability](probability-and-numerical-ability.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Cross-referencing and perceptual ability](cross-referencing-and-perceptual-ability.md) · Next: [Probability and numerical ability](probability-and-numerical-ability.md)
+<!-- /nav:top -->
 
 # Map reading and position locating
 
@@ -114,4 +116,6 @@ Practice route questions with a timer in the [free CritiCall practice test on Pr
 
 ---
 
-<!-- nav:bottom -->← Previous: [Cross-referencing and perceptual ability](cross-referencing-and-perceptual-ability.md) | Next: [Probability and numerical ability](probability-and-numerical-ability.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Cross-referencing and perceptual ability](cross-referencing-and-perceptual-ability.md) | Next: [Probability and numerical ability](probability-and-numerical-ability.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->
