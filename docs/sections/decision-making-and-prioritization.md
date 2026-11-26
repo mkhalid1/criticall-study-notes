@@ -95,7 +95,7 @@ C. A driver reports a dog wandering along the shoulder of a quiet road.
 
 </details>
 
-Want more? The [free timed CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=criticall) has the full 60 questions across eleven modules, with every answer explained.
+Want more? The [free timed CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=zse9qc&utm_content=criticall) has the full 60 questions across eleven modules, with every answer explained.
 
 ## Score yourself
 
@@ -109,7 +109,7 @@ Want more? The [free timed CritiCall practice test on PrepClubs](https://prepclu
 
 ## Next step
 
-The real difficulty is the clock and the interruptions. Try decision items under time pressure in the [free CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=criticall), then come back to the traps list for anything you missed.
+The real difficulty is the clock and the interruptions. Try decision items under time pressure in the [free CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=zse9qc&utm_content=criticall), then come back to the traps list for anything you missed.
 
 ---
 

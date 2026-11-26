@@ -98,7 +98,7 @@ A. 0 B. 2 C. 3 D. 4
 
 </details>
 
-Want more? The [free timed CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=criticall) has the full 60 questions across eleven modules, with every answer explained.
+Want more? The [free timed CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=zse9qc&utm_content=criticall) has the full 60 questions across eleven modules, with every answer explained.
 
 ## Score yourself
 
@@ -112,7 +112,7 @@ Want more? The [free timed CritiCall practice test on PrepClubs](https://prepclu
 
 ## Next step
 
-Data entry is a speed skill, and reading about it only goes so far. The candidate guide suggests practicing by typing names, addresses and phone numbers that someone reads aloud to you. For timed practice, try the [free CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=criticall).
+Data entry is a speed skill, and reading about it only goes so far. The candidate guide suggests practicing by typing names, addresses and phone numbers that someone reads aloud to you. For timed practice, try the [free CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=zse9qc&utm_content=criticall).
 
 ---
 

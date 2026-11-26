@@ -16,7 +16,7 @@ If your job posting or invitation lists the modules you will take, cut any modul
 | 2 | Decisions and data entry | Read the [decision making](sections/decision-making-and-prioritization.md) and [data entry](sections/data-entry-and-keyboarding.md) guides. Make flashcards for the four decision rules and drill them until each answer takes under five seconds. Learn the field order. |
 | 3 | Listening and memory | Read the [call summarization](sections/call-summarization.md) and [memory recall](sections/memory-recall.md) guides. Have someone read you phone numbers and short call scripts, and type what you hear. |
 | 4 | Maps and lists | Read the [map reading](sections/map-reading-and-position-locating.md) and [cross-referencing](sections/cross-referencing-and-perceptual-ability.md) guides. Do five route descriptions out loud on any online map. |
-| 5 | First timed run | Take a full timed practice test, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=criticall). Then read the [numerical](sections/probability-and-numerical-ability.md), [reading](sections/reading-comprehension-and-sentence-clarity.md) and [spelling](sections/spelling-and-proofreading.md) guides. |
+| 5 | First timed run | Take a full timed practice test, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=zse9qc&utm_content=criticall). Then read the [numerical](sections/probability-and-numerical-ability.md), [reading](sections/reading-comprehension-and-sentence-clarity.md) and [spelling](sections/spelling-and-proofreading.md) guides. |
 | 6 | Fix the weakest module | Go back to the traps list for your weakest module. Redo its items without the answers. Read the [situational judgment](sections/situational-judgment-and-personality.md) guide. Try the free TestGenius sample tests to check your computer and headset. |
 | 7 | Second run and rest | Take a second timed run in the morning. Compare with day 5. Read the [test-day checklist](test-day-checklist.md). Stop studying by early evening. |
 
@@ -43,7 +43,7 @@ For when the test link has arrived and the deadline is close. Test links can exp
 | 1 | 5 min | Take the [diagnostic](diagnostic.md). |
 | 2 | 20 min | Read the official [candidate preparation guide](https://criticall911.com/hubfs/Criticall-Website-Files/CritiCall_Candidate_Test_Preparation_Guide_2023.pdf). Learn the four decision rules and the field order. |
 | 3 | 40 min | Read the "How the questions look" and "Traps" parts of every section guide, then do the practice items for your two weakest modules. |
-| 4 | 30 min | Take a timed run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=criticall). |
+| 4 | 30 min | Take a timed run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=zse9qc&utm_content=criticall). |
 | 5 | 20 min | Review every miss with the three questions above. |
 
 ### Day 2: set up and sit the test

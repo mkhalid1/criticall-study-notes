@@ -49,7 +49,7 @@ Two or three hours of focused work is tiring, and the modules near the end count
 
 ## Practice against the clock
 
-Untimed practice teaches the rules. Timed practice teaches the pace. Once your accuracy is good in the section guides, switch to timed runs such as the [free CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=criticall), and keep a note of the item types that make you run long.
+Untimed practice teaches the rules. Timed practice teaches the pace. Once your accuracy is good in the section guides, switch to timed runs such as the [free CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=zse9qc&utm_content=criticall), and keep a note of the item types that make you run long.
 
 ---
 

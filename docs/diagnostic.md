@@ -8,7 +8,7 @@ Ten short items, one for each module group, to show you where to start. Set a ti
 
 These items are original, written for these notes. They are not taken from CritiCall or any publisher's materials.
 
-If you already know which modules your agency uses, you can skip straight to those guides. If you want a feel for the pace instead, take the [free CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=criticall).
+If you already know which modules your agency uses, you can skip straight to those guides. If you want a feel for the pace instead, take the [free CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=zse9qc&utm_content=criticall).
 
 ## Part A: Decision making
 

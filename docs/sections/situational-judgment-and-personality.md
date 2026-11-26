@@ -98,7 +98,7 @@ D. Report your colleague later for missing the call.
 
 </details>
 
-Want more? The [free timed CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=criticall) has the full 60 questions across eleven modules, with every answer explained.
+Want more? The [free timed CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=zse9qc&utm_content=criticall) has the full 60 questions across eleven modules, with every answer explained.
 
 ## Score yourself
 
@@ -112,7 +112,7 @@ Want more? The [free timed CritiCall practice test on PrepClubs](https://prepclu
 
 ## Next step
 
-Situational items feel easy on paper and harder after an hour of multitasking. Try a mixed timed run in the [free CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=criticall).
+Situational items feel easy on paper and harder after an hour of multitasking. Try a mixed timed run in the [free CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=zse9qc&utm_content=criticall).
 
 ---
 

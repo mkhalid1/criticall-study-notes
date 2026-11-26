@@ -78,7 +78,7 @@ A. 1 B. 2 C. 3 D. 4
 
 </details>
 
-Want more? The [free timed CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=criticall) has the full 60 questions across eleven modules, with every answer explained.
+Want more? The [free timed CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=zse9qc&utm_content=criticall) has the full 60 questions across eleven modules, with every answer explained.
 
 ## Score yourself
 
@@ -110,7 +110,7 @@ These come up again and again in dispatch notes. Learn them in pairs where they 
 
 ## Next step
 
-The free TestGenius sample tests for spelling and proofreading are linked from the [CritiCall applicant page](https://criticall911.com/dispatcher-testing/applicants). For mixed timed practice across modules, try the [free CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=criticall).
+The free TestGenius sample tests for spelling and proofreading are linked from the [CritiCall applicant page](https://criticall911.com/dispatcher-testing/applicants). For mixed timed practice across modules, try the [free CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=zse9qc&utm_content=criticall).
 
 ---
 

@@ -2,7 +2,7 @@
 
 A free, complete study guide for CritiCall, the pre-employment test that many 911 centers use to screen dispatcher, call taker and telecommunicator applicants. It covers how the test works, a clear method for every module group, 50 original practice items with full explanations, two original practice maps, how agencies use the scores, and study plans for a week or a weekend. Written for people applying to 911 and public-safety dispatch jobs, with a page on where CritiCall sits in a real [hiring process](docs/dispatcher-applicants.md). Facts about the test come only from the publisher, Biddle Consulting Group, and from agencies' own pages, each one [cited](docs/sources.md).
 
-Want to see where you stand first? Take the [free timed CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=criticall), or the shorter [5-minute diagnostic](docs/diagnostic.md) in this repo.
+Want to see where you stand first? Take the [free timed CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=zse9qc&utm_content=criticall), or the shorter [5-minute diagnostic](docs/diagnostic.md) in this repo.
 
 ## Start here
 
@@ -227,7 +227,7 @@ Every module guide has the same parts: what it measures, how the questions look,
 - **Treat stimulus blocks like the real thing.** Call transcripts and memory sets sit in collapsible blocks. Open, read or study once for the time given, close, then answer.
 - **Read every explanation,** including for items you got right. Most say why the nearest wrong answer is wrong, which is where the learning is.
 - **Keep a miss log.** For each miss, write the habit you broke. The [study plans](docs/study-plans.md#how-to-review-a-missed-item) show how.
-- **Practice timed.** The notes teach the methods. A timed run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=criticall), teaches the pace.
+- **Practice timed.** The notes teach the methods. A timed run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=zse9qc&utm_content=criticall), teaches the pace.
 - **Clone or fork it** if you want to annotate your own copy. The structure also works as a GitBook space: see [SUMMARY.md](SUMMARY.md).
 
 ## About the practice items

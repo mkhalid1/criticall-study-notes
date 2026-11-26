@@ -91,7 +91,7 @@ D. About her neighbor's dog barking loudly, the woman called.
 
 </details>
 
-Want more? The [free timed CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=criticall) has the full 60 questions across eleven modules, with every answer explained.
+Want more? The [free timed CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=zse9qc&utm_content=criticall) has the full 60 questions across eleven modules, with every answer explained.
 
 ## Score yourself
 
@@ -105,7 +105,7 @@ Want more? The [free timed CritiCall practice test on PrepClubs](https://prepclu
 
 ## Next step
 
-Reading under time pressure is different from reading at a desk. Try these modules in the [free CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=criticall).
+Reading under time pressure is different from reading at a desk. Try these modules in the [free CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=zse9qc&utm_content=criticall).
 
 ---
 

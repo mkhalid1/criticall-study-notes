@@ -103,7 +103,7 @@ D. Westfield office park garage, level 3. Man trying door handles. Tall, 20s, bl
 
 </details>
 
-Want more? The [free timed CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=criticall) has the full 60 questions across eleven modules, with every answer explained.
+Want more? The [free timed CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=zse9qc&utm_content=criticall) has the full 60 questions across eleven modules, with every answer explained.
 
 ## Score yourself
 
@@ -117,7 +117,7 @@ Want more? The [free timed CritiCall practice test on PrepClubs](https://prepclu
 
 ## Next step
 
-Practice listening and typing at the same pace as a real call, with no replay. A timed run of the [free CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=criticall) is a good place to check whether your notes keep up.
+Practice listening and typing at the same pace as a real call, with no replay. A timed run of the [free CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=zse9qc&utm_content=criticall) is a good place to check whether your notes keep up.
 
 ---
 

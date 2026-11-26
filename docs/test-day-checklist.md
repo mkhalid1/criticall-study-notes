@@ -52,7 +52,7 @@ CritiCall is long, it uses audio, and it runs in your browser. Most test-day pro
 
 ## Last practice before the real one
 
-A short timed warm-up the day before, such as part of the [free CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=criticall), helps more than a long session on test day.
+A short timed warm-up the day before, such as part of the [free CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=zse9qc&utm_content=criticall), helps more than a long session on test day.
 
 ---
 

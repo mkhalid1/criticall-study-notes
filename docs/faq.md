@@ -40,7 +40,7 @@ There is no CritiCall-wide number. The keyboarding module is scored in words per
 - Work through the [section guides](../README.md#contents) here, one module at a time.
 - Practice typing names, addresses and phone numbers that someone reads to you.
 - Run the free TestGenius sample tests linked on the [CritiCall applicant page](https://criticall911.com/dispatcher-testing/applicants) to check your device.
-- Do a timed run, such as the [free CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=criticall).
+- Do a timed run, such as the [free CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=zse9qc&utm_content=criticall).
 
 The [7-day plan](study-plans.md#7-day-plan) puts this in order.
 
@@ -84,7 +84,7 @@ The publisher's [applicant FAQ](https://criticall911.com/company/news/criticall-
 
 - The free TestGenius sample tests for keyboarding, proofreading and spelling, linked from the [CritiCall applicant page](https://criticall911.com/dispatcher-testing/applicants).
 - The original practice items and the [diagnostic](diagnostic.md) in this repo.
-- The [free CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=criticall), for a timed run.
+- The [free CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=zse9qc&utm_content=criticall), for a timed run.
 
 ---
 

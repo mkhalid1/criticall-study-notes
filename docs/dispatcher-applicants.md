@@ -48,7 +48,7 @@ If you find the multitasking modules stressful at first, that is normal. They ge
 
 ## Practice before you apply
 
-If you are thinking about applying, practice before the application, not after. The invitation can arrive quickly. Work through the [diagnostic](diagnostic.md) and the [7-day plan](study-plans.md#7-day-plan), and do a timed run of the [free CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=criticall).
+If you are thinking about applying, practice before the application, not after. The invitation can arrive quickly. Work through the [diagnostic](diagnostic.md) and the [7-day plan](study-plans.md#7-day-plan), and do a timed run of the [free CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=zse9qc&utm_content=criticall).
 
 For career information, the publisher points applicants to the industry associations: APCO International, the International Academies of Emergency Dispatch, NENA and NECI. Links are on the [sources page](sources.md#industry-associations).
 

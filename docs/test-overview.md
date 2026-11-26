@@ -73,7 +73,7 @@ The publisher says CritiCall3D tests three times as many job performance areas i
 
 There is no official practice version of CritiCall. The publisher says the software is only available to agencies. It does offer free sample tests for keyboarding, proofreading and spelling, mainly so you can check your device, plus the free candidate preparation guide. Both are linked from the [CritiCall applicant page](https://criticall911.com/dispatcher-testing/applicants).
 
-For a timed run across the modules, try the [free CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=criticall), then take the [diagnostic](diagnostic.md) to see which guide to open first.
+For a timed run across the modules, try the [free CritiCall practice test on PrepClubs](https://prepclubs.com/free-practice-tests/criticall?utm_source=github&utm_medium=referral&utm_campaign=zse9qc&utm_content=criticall), then take the [diagnostic](diagnostic.md) to see which guide to open first.
 
 ---
 
